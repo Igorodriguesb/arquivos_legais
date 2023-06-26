@@ -1,2 +1,2 @@
-# arquivos_legais
+# arquivos_python
 Aulas de git da dnc
